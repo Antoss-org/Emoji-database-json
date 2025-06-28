@@ -1,0 +1,23 @@
+{
+  "name": "emoji-database-json",
+  "version": "1.0.0",
+  "description": "A combination of some emoji databases to provide a more complete database that has more complete categories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoss-org/Emoji-database-json.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoss-org/Emoji-database-json/issues"
+  },
+  "homepage": "https://github.com/Antoss-org/Emoji-database-json#readme",
+  "dependencies": {
+    "emoji-datasource": "^15.1.2",
+    "emojipedia": "^0.4.0"
+  }
+}

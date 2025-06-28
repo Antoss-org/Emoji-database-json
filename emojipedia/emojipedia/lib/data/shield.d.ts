@@ -1,0 +1,106 @@
+{
+    "appleName": "Shield",
+    "code": "🛡️",
+    "codepointsHex": [
+        "U+1F6E1",
+        "U+FE0F"
+    ],
+    "components": [
+        {
+            "appleName": "Shield",
+            "code": "🛡️",
+            "codepointsHex": [
+                "U+1F6E1",
+                "U+FE0F"
+            ],
+            "currentCldrName": "Shield",
+            "description": "<p>A shield, as blocks swords in close combat. Color and style varies across platforms, but generally depicted in a <a href=\"/kite/\">kite</a> shape with a metal border and simple pattern.</p>\r\n\r\n<p>Commonly used to represent various content concerning battle, defense, security, and protection.</p>\r\n\r\n<p>Apple and Microsoft&rsquo;s designs feature a red and white sawtooth pattern, Facebook and WhatsApp&rsquo;s blue and white checkers.</p>\r\n\r\n<p>May be paired with (or fending off) <a href=\"/crossed-swords/\">⚔️&nbsp;Crossed Swords</a> or <a href=\"/dagger/\">🗡️&nbsp;Dagger</a>.&nbsp;Not to be confused with <a href=\"/japanese-symbol-for-beginner/\">🔰&nbsp;Japanese Symbol for Beginner</a>.</p>",
+            "id": "887",
+            "slug": "shield",
+            "shortcodes": [
+                {
+                    "code": ":shield:",
+                    "vendor": {
+                        "slug": "shortcodes",
+                        "title": "Emojipedia"
+                    }
+                },
+                {
+                    "code": ":shield:",
+                    "vendor": {
+                        "slug": "github",
+                        "title": "GitHub"
+                    }
+                },
+                {
+                    "code": ":shield:",
+                    "vendor": {
+                        "slug": "slack",
+                        "title": "Slack"
+                    }
+                },
+                {
+                    "code": ":shield:",
+                    "vendor": {
+                        "slug": "discord",
+                        "title": "Discord"
+                    }
+                }
+            ],
+            "title": "Shield"
+        }
+    ],
+    "currentCldrName": "Shield",
+    "description": "<p>A shield, as blocks swords in close combat. Color and style varies across platforms, but generally depicted in a <a href=\"/kite/\">kite</a> shape with a metal border and simple pattern.</p>\r\n\r\n<p>Commonly used to represent various content concerning battle, defense, security, and protection.</p>\r\n\r\n<p>Apple and Microsoft&rsquo;s designs feature a red and white sawtooth pattern, Facebook and WhatsApp&rsquo;s blue and white checkers.</p>\r\n\r\n<p>May be paired with (or fending off) <a href=\"/crossed-swords/\">⚔️&nbsp;Crossed Swords</a> or <a href=\"/dagger/\">🗡️&nbsp;Dagger</a>.&nbsp;Not to be confused with <a href=\"/japanese-symbol-for-beginner/\">🔰&nbsp;Japanese Symbol for Beginner</a>.</p>",
+    "emojiVersion": {
+        "date": 1438646400,
+        "name": "1.0",
+        "slug": "emoji-1.0",
+        "status": 0
+    },
+    "id": "887",
+    "shortcodes": [
+        {
+            "code": ":shield:",
+            "vendor": {
+                "slug": "shortcodes",
+                "title": "Emojipedia"
+            },
+            "source": "cldr"
+        },
+        {
+            "code": ":shield:",
+            "vendor": {
+                "slug": "github",
+                "title": "GitHub"
+            },
+            "source": "github"
+        },
+        {
+            "code": ":shield:",
+            "vendor": {
+                "slug": "slack",
+                "title": "Slack"
+            },
+            "source": "slack"
+        },
+        {
+            "code": ":shield:",
+            "vendor": {
+                "slug": "discord",
+                "title": "Discord"
+            },
+            "source": "discord"
+        }
+    ],
+    "slug": "shield",
+    "title": "Shield",
+    "type": "SINGLE",
+    "version": {
+        "date": 1402876800,
+        "description": "<p>The Unicode Consortium approved the following characters as part of <a href=\"http://www.unicode.org/versions/Unicode7.0.0/\">Unicode 7.0</a>, released on June 16, 2014.&nbsp;Support for these emoji characters rely on updates from platform vendors such as Apple, Google, and Microsoft.</p>\r\n\r\n<p>Initially, 250&nbsp;new characters in Unicode 7.0 were approved for emoji presentation, however this was later reduced to 103 <em>Standard Additions</em> which are listed below. The other characters remain part of Unicode, but are not recommended&nbsp;to be included as emojis.</p>\r\n\r\n<p>The exception to this was the <a href=\"/left-speech-bubble/\" title=\"🗨 Left Speech Bubble\">Left Speech Bubble</a>, and as such wasn&#39;t initially specified on other platforms as an emoji. A later-accepted&nbsp;<a href=\"http://blog.emojipedia.org/diverse-spy-proposal/\">proposal</a>&nbsp;updated this.</p>",
+        "name": "7.0",
+        "slug": "unicode-7.0",
+        "status": 0
+    }
+}

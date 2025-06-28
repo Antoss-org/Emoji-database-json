@@ -1,0 +1,114 @@
+{
+    "alsoKnownAs": [
+        "Blooper",
+        "No Good",
+        "NG"
+    ],
+    "appleName": "No Good Sign",
+    "code": "🆖",
+    "codepointsHex": [
+        "U+1F196"
+    ],
+    "components": [
+        {
+            "alsoKnownAs": [
+                "Blooper",
+                "No Good",
+                "NG"
+            ],
+            "appleName": "No Good Sign",
+            "code": "🆖",
+            "codepointsHex": [
+                "U+1F196"
+            ],
+            "currentCldrName": "NG Button",
+            "description": "<p>The letters&nbsp;<em>NG</em>, shown enclosed&nbsp;in a square, which are an&nbsp;acronym for the words <a href=\"/person-gesturing-no/\" title=\"🙅 Face With No Good Gesture\">No Good</a>.</p>\r\n\r\n<p>The origin of <em>NG</em>&nbsp;refers to&nbsp;<a href=\"https://en.wikipedia.org/wiki/Blooper\">bloopers</a>&nbsp;shown during or after the credits of&nbsp;a live <a href=\"/television/\" title=\"📺 Television\">television</a> show in Japan (known as <em>NGs</em>), but can be used in any field as a form of shorthand for&nbsp;<em>no good.</em></p>\r\n",
+            "id": "1236",
+            "slug": "ng-button",
+            "shortcodes": [
+                {
+                    "code": ":ng_button:",
+                    "vendor": {
+                        "slug": "shortcodes",
+                        "title": "Emojipedia"
+                    }
+                },
+                {
+                    "code": ":ng:",
+                    "vendor": {
+                        "slug": "github",
+                        "title": "GitHub"
+                    }
+                },
+                {
+                    "code": ":ng:",
+                    "vendor": {
+                        "slug": "slack",
+                        "title": "Slack"
+                    }
+                },
+                {
+                    "code": ":ng:",
+                    "vendor": {
+                        "slug": "discord",
+                        "title": "Discord"
+                    }
+                }
+            ],
+            "title": "Squared NG"
+        }
+    ],
+    "currentCldrName": "NG Button",
+    "description": "<p>The letters&nbsp;<em>NG</em>, shown enclosed&nbsp;in a square, which are an&nbsp;acronym for the words <a href=\"/person-gesturing-no/\" title=\"🙅 Face With No Good Gesture\">No Good</a>.</p>\r\n\r\n<p>The origin of <em>NG</em>&nbsp;refers to&nbsp;<a href=\"https://en.wikipedia.org/wiki/Blooper\">bloopers</a>&nbsp;shown during or after the credits of&nbsp;a live <a href=\"/television/\" title=\"📺 Television\">television</a> show in Japan (known as <em>NGs</em>), but can be used in any field as a form of shorthand for&nbsp;<em>no good.</em></p>\r\n",
+    "emojiVersion": {
+        "date": 1438646400,
+        "name": "1.0",
+        "slug": "emoji-1.0",
+        "status": 0
+    },
+    "id": "1236",
+    "shortcodes": [
+        {
+            "code": ":ng_button:",
+            "vendor": {
+                "slug": "shortcodes",
+                "title": "Emojipedia"
+            },
+            "source": "cldr"
+        },
+        {
+            "code": ":ng:",
+            "vendor": {
+                "slug": "github",
+                "title": "GitHub"
+            },
+            "source": "github"
+        },
+        {
+            "code": ":ng:",
+            "vendor": {
+                "slug": "slack",
+                "title": "Slack"
+            },
+            "source": "slack"
+        },
+        {
+            "code": ":ng:",
+            "vendor": {
+                "slug": "discord",
+                "title": "Discord"
+            },
+            "source": "discord"
+        }
+    ],
+    "slug": "ng-button",
+    "title": "Squared NG",
+    "type": "SINGLE",
+    "version": {
+        "date": 1286755200,
+        "description": "<p>Released in&nbsp;October&nbsp;2010, Unicode 6.0 was the first version of the Unicode Standard to support emoji.</p>\r\n\r\n<p>Some characters in <a href=\"/unicode-5.2/\">prior</a>&nbsp;versions of Unicode were retroactively updated to provide&nbsp;an emoji presentation. This release was the first to introduce new characters for the sole purpose of compatability with emojis being used in Japan.</p>",
+        "name": "6.0",
+        "slug": "unicode-6.0",
+        "status": 0
+    }
+}

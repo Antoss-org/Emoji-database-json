@@ -1,0 +1,106 @@
+{
+    "appleName": "Person Standing",
+    "code": "🧍",
+    "codepointsHex": [
+        "U+1F9CD"
+    ],
+    "components": [
+        {
+            "appleName": "Person Standing",
+            "code": "🧍",
+            "codepointsHex": [
+                "U+1F9CD"
+            ],
+            "currentCldrName": "Person Standing",
+            "description": "<p>A person standing upright. Commonly used to convey&nbsp;awkwardness,&nbsp;particularly <a href=\"/tiktok/\">on TikTok</a>.</p>\r\n\r\n<p>Similar in appearance to&nbsp;<a href=\"/person-walking/\">🚶 Person Walking</a>, but shown facing forward&nbsp;and without any motion implied.</p>",
+            "id": "7899",
+            "modifiers": true,
+            "slug": "person-standing",
+            "shortcodes": [
+                {
+                    "code": ":person_standing:",
+                    "vendor": {
+                        "slug": "shortcodes",
+                        "title": "Emojipedia"
+                    }
+                },
+                {
+                    "code": ":standing_person:",
+                    "vendor": {
+                        "slug": "github",
+                        "title": "GitHub"
+                    }
+                },
+                {
+                    "code": ":standing_person:",
+                    "vendor": {
+                        "slug": "slack",
+                        "title": "Slack"
+                    }
+                },
+                {
+                    "code": ":person_standing:",
+                    "vendor": {
+                        "slug": "discord",
+                        "title": "Discord"
+                    }
+                }
+            ],
+            "title": "Standing Person"
+        }
+    ],
+    "currentCldrName": "Person Standing",
+    "description": "<p>A person standing upright. Commonly used to convey&nbsp;awkwardness,&nbsp;particularly <a href=\"/tiktok/\">on TikTok</a>.</p>\r\n\r\n<p>Similar in appearance to&nbsp;<a href=\"/person-walking/\">🚶 Person Walking</a>, but shown facing forward&nbsp;and without any motion implied.</p>",
+    "emojiVersion": {
+        "date": 1549324800,
+        "name": "12.0",
+        "slug": "emoji-12.0",
+        "status": 0
+    },
+    "id": "7899",
+    "modifiers": true,
+    "shortcodes": [
+        {
+            "code": ":person_standing:",
+            "vendor": {
+                "slug": "shortcodes",
+                "title": "Emojipedia"
+            },
+            "source": "cldr"
+        },
+        {
+            "code": ":standing_person:",
+            "vendor": {
+                "slug": "github",
+                "title": "GitHub"
+            },
+            "source": "github"
+        },
+        {
+            "code": ":standing_person:",
+            "vendor": {
+                "slug": "slack",
+                "title": "Slack"
+            },
+            "source": "slack"
+        },
+        {
+            "code": ":person_standing:",
+            "vendor": {
+                "slug": "discord",
+                "title": "Discord"
+            },
+            "source": "discord"
+        }
+    ],
+    "slug": "person-standing",
+    "title": "Standing Person",
+    "type": "SINGLE",
+    "version": {
+        "date": 1551744000,
+        "description": "<p>Unicode 12.0 was released on March 5,&nbsp;2019.&nbsp;Emojis that require new code points for release are listed on this page. See&nbsp;<a href=\"/emoji-12.0/\">Emoji 12.0</a>&nbsp;for the full 2019&nbsp;emoji list. <a href=\"http://blog.emojipedia.org/whats-new-in-unicode-12-0/\">More about this update</a>.</p>",
+        "name": "12.0",
+        "slug": "unicode-12.0",
+        "status": 0
+    }
+}

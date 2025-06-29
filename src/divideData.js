@@ -2,15 +2,15 @@ const fs = require('fs');
 const path = require('path');
 
 // Read original.json
-const basePath = path.join(__dirname, './databases/emojibase/emojibase.json');
+const basePath = path.join(__dirname, './data/full/emojibase.json');
 const baseContent = fs.readFileSync(basePath, 'utf-8');
 const baseData = JSON.parse(baseContent);
 
-const pediaPath = path.join(__dirname, './databases/emojipedia/emojipedia.json');
+const pediaPath = path.join(__dirname, './data/full/emojipedia.json');
 const pediaContent = fs.readFileSync(pediaPath, 'utf-8');
 const pediaData = JSON.parse(pediaContent);
 
-const dsourcePath = path.join(__dirname, './databases/emoji-datasource/emoji_pretty.json');
+const dsourcePath = path.join(__dirname, './data/full/emojiDatasource.json');
 const dsourceContent = fs.readFileSync(dsourcePath, 'utf-8');
 const dsourceData = JSON.parse(dsourceContent);
 

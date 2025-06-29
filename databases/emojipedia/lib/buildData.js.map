@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/buildData.ts"],"sourcesContent":["import { rebuildDirectory } from \"./rebuildDirectory.js\";\n\nawait rebuildDirectory({ directory: \"lib/data\" });\n"],"mappings":"AAAA,SAAS,wBAAwB;AAEjC,MAAM,iBAAiB,EAAE,WAAW,WAAW,CAAC;","names":[]}

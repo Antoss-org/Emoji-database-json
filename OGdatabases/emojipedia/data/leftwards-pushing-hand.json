@@ -1,0 +1,38 @@
+{
+    "code": "🫷",
+    "codepointsHex": [
+        "U+1FAF7"
+    ],
+    "components": [
+        {
+            "code": "🫷",
+            "codepointsHex": [
+                "U+1FAF7"
+            ],
+            "description": "<p>A profile of an open hand pushing or positioned with the palm toward the left.&nbsp;</p>\r\n\r\n<p>May be used to show a hand pushing something away or to represent rejection of something in general. May also be used with with <a href=\"https://emojipedia.org/rightwards-pushing-hand/\">🫸 Rightwards Pushing Hand</a> to show hands high fiving or holding, pressing, or squishing something.&nbsp;</p>",
+            "id": "8903",
+            "modifiers": true,
+            "slug": "leftwards-pushing-hand",
+            "title": "Leftwards Pushing Hand"
+        }
+    ],
+    "description": "<p>A profile of an open hand pushing or positioned with the palm toward the left.&nbsp;</p>\r\n\r\n<p>May be used to show a hand pushing something away or to represent rejection of something in general. May also be used with with <a href=\"https://emojipedia.org/rightwards-pushing-hand/\">🫸 Rightwards Pushing Hand</a> to show hands high fiving or holding, pressing, or squishing something.&nbsp;</p>",
+    "emojiVersion": {
+        "date": 1663027200,
+        "name": "15.0",
+        "slug": "emoji-15.0",
+        "status": 0
+    },
+    "id": "8903",
+    "modifiers": true,
+    "slug": "leftwards-pushing-hand",
+    "title": "Leftwards Pushing Hand",
+    "type": "SINGLE",
+    "version": {
+        "date": 1663027200,
+        "description": "<p>Unicode 15.0 is the version of the Unicode Standard&nbsp;released on&nbsp;September 13, 2022. 20&nbsp;new emoji&nbsp;code points were added in this release,&nbsp;with all 31 new emojis (including sequences)&nbsp;listed under <a href=\"/emoji-15.0/\">Emoji 15.0</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>📝&nbsp;<a href=\"https://unicode.org/versions/Unicode15.0.0/\">Unicode 15.0 details on Unicode.org</a></li>\r\n</ul>",
+        "name": "15.0",
+        "slug": "unicode-15.0",
+        "status": 0
+    }
+}
